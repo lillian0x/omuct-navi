@@ -28,3 +28,6 @@ vite.config.ts.timestamp-*
 tmp
 
 AGENTS.md
+
+# pre-commit
+.pre-commit-config.yaml
